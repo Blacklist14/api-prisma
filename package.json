@@ -1,0 +1,17 @@
+{
+  "name": "zotuxenoticias",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node script"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^3.10.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "prisma": "^3.10.0"
+  }
+}
